@@ -4,7 +4,7 @@
 
 Data science and AI leader with 8+ years of experience delivering machine learning solutions in logistics, e-commerce, insurance and consumer electronics trading. 
 
-- 🔬 **Academic Research:** statistical learning · econometrics · market risk · financial time series forecasting · spatio-temporal deep learning · institutional economics
+- 🔬 **Academic Research:** statistical learning, econometrics, market risk, financial time series forecasting, spatio-temporal deep learning, institutional economics
 - 🎓 **Teaching:** ML in Finance I for Quant and Data Scientists
 - 🏆 1st place, Econometric Game 2023 (Amsterdam) · 1st place, Warsaw Econometric Challenge 2021 · 3rd place, Econometric Game 2022 · 5th place, Rotman International Trading Competition 2020 (Toronto)
 
