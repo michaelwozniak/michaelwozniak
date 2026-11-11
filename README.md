@@ -1,6 +1,6 @@
 ### Hi, I'm Michał Woźniak, PhD 👋
 
-**Data Science Domain Manager @ InPost Group** · **Assistant Professor @ University of Warsaw** (Faculty of Economic Sciences, Dept. of Quantitative Finance and Machine Learning)
+**Data Science Domain Manager @ InPost Group** & **Assistant Professor @ University of Warsaw** (Faculty of Economic Sciences, Dept. of Quantitative Finance and Machine Learning)
 
 Data science and AI leader with 8+ years of experience delivering machine learning solutions in logistics, e-commerce, insurance and consumer electronics trading. At InPost I build and lead a data science domain with a portfolio of 30+ projects across Poland, the UK, France, Benelux, Iberia and Italy.
 
